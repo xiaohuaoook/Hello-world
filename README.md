@@ -1,2 +1,3 @@
 # Hello-world
-Just test
+ptyhon
+print('hello python')
